@@ -23,9 +23,6 @@ PGB = 213368687
 #Importanto Bibliotecas Python necessárias para Manipulação de Dados:
 
 import pandas as pd
-import numpy as np
-import seaborn as sns
-get_ipython().run_line_magic('matplotlib', 'inline')
 
 # --------------------------------
 
