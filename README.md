@@ -1,4 +1,4 @@
-# <center>Santander Coders & Let's Code | Ciência de Dados<center>
+# <center>Santander Coders & Lets Code | Ciencia de Dados<center>
 
 ## Case = Quantas pastas dentais são vendidas no Brasil por mês?
 
